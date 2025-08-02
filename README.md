@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there! 👋
+I'm Karan, a 5th grader ahh 9 year old who loves coding, science, and making cool projects!  
+- 🧠 Learning Python  
+- 🕹️ Building games  
+- 🌱 Exploring science facts and quizzes  
+
+Let's learn and build awesome stuff together!
+
 
 <!--
 **Codebigdotpng/Codebigdotpng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
